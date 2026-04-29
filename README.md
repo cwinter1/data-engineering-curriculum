@@ -8,11 +8,22 @@ This is not a course you can buy. It was assembled over years of building pipeli
 
 ## Who It's For
 
-- Software engineers transitioning into data engineering
-- Analysts who write SQL and want to move upstream into pipeline work
-- Junior DEs who passed the interview but feel shaky on production fundamentals
+Data engineers who already know the fundamentals and want to stay relevant as the field shifts.
 
-Not for: people who want certificates. This is for people who want to build things that work.
+The target is practitioners with 2–5 years of experience who can build a pipeline but haven't yet worked with the tooling, patterns, and architectural approaches that are now standard in 2026 hiring. The curriculum doesn't start from zero — it builds on what you already know and fills the gaps that separate a working DE from a hireable one.
+
+**This course is for you if:**
+- You know Python and SQL but haven't worked with modern orchestration (Airflow), streaming (Kafka), or cloud-native storage (BigQuery, Athena)
+- You've built pipelines but never had to harden them for production — security, schema evolution, incident response
+- You're preparing for a role change and need to close the gap between your current stack and what Israeli companies are actually asking for in 2026
+- You learn by building, not by watching videos or reading slides
+
+**What you leave with:**
+- A working capstone project that demonstrates end-to-end pipeline ownership
+- Hands-on exposure to the tools and patterns appearing in 2026 JDs: Kafka, Airflow, dbt-style contracts, cloud IAM, CI/CD for data
+- The ability to talk through architecture decisions and failure modes in an interview — not just describe what you built
+
+Not for people who want a certificate. For people who want to be able to do the job.
 
 ---
 
